@@ -1,0 +1,49 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#header-section {
+    
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url(../images/2502796.jpg);
+    background-position: center center, center center;
+    background-size: cover, cover;
+    background-repeat: repeat, repeat;
+}
+
+#first-section {
+    background-color:#12bbad; 
+}
+
+#second-section { 
+background-color: #12bbad;}
+
+.text-in-white{
+    color: rgb(0, 0, 0);
+}
+
+#photos-section {
+    background-color: #12bbad;
+}
+
+#general-section{
+    background-color: #12bbad;
+}
+
+#stats-section{
+    background-color: #12bbad;
+}
+
+#parallax-section {
+    background-image: url(../images/3150368-64563088-2560-1440.jpg);
+    background-position: right bottom;
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+#footer-section {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url(../images/Wembley-Stadium-compressed-1024x576.jpg);
+    background-position: center center, center center;
+    background-size: cover, cover;
+    background-repeat: repeat, repeat;
+}
